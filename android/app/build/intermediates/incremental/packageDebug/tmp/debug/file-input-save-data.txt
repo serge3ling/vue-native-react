@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 05 16:31:37 EEST 2020
+#Wed May 06 17:21:52 EEST 2020
 5.base=/home/sergio/devel/vue-native/helloReact/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/sergio/devel/vue-native/helloReact/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/x86/libglog.so
